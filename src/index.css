@@ -206,7 +206,7 @@ header nav ul li a:hover::after{ width: 100%; }
   z-index: 9999;
   top: 0;
   right: 0;
-  background-color: #05070b80;
+  background-color: #05070B;
   backdrop-filter: blur(20px) saturate(160%);
   -webkit-backdrop-filter: blur(20px) saturate(160%);
   border-left: 1px solid rgba(207, 55, 218, 0.25); /* Sirf left edge par divider line */
