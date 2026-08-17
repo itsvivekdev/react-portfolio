@@ -132,6 +132,7 @@ header{
   z-index: 100;
   width: 92%;
   max-width: 1180px;
+  background-color: rgba(5, 7, 11, 0.45);
   backdrop-filter: blur(20px) saturate(160%);
   -webkit-backdrop-filter: blur(20px) saturate(160%);
   border: 1px solid rgba(207, 55, 218, 0.25);
