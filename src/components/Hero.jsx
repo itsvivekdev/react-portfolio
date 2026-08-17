@@ -37,7 +37,7 @@ const Hero = () => {
         loop
         playsInline
       >
-        <source src="hero2.webm" type="video/mp4" />
+        <source src="hero2.webm" type="video/webm" />
       </video>
 
                        </div>
