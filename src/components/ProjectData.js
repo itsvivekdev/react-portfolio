@@ -35,7 +35,7 @@
       "TMDB API",
       "CSS",
     ],
-    livelink:'https://hilarious-dusk-8e2b03.netlify.app/',
+    livelink:'https://noirfflix.netlify.app/',
     viewcode:'https://github.com/itsvivekdev/ReactMovieApp'
   
    
@@ -72,7 +72,8 @@
       "Lenis",
       "Lucide React",
     ],
-   
+     livelink:'https://itsvivekdev.netlify.app/',
+    viewcode:'https://github.com/itsvivekdev/react-portfolio'
   },
 ];
 
