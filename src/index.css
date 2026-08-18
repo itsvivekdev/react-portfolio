@@ -745,6 +745,7 @@ header nav ul li a:hover::after{ width: 100%; }
 .card .card-img img{
   width: 100%;
   height: auto;
+ border: 1px solid #11182B;
   border-radius: 0.8rem;
 }
 .card .btns{

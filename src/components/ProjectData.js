@@ -6,7 +6,7 @@
     number: "01",
     title: "Task Manager",
     icon: "CheckSquare",
-    image:'taskmanagerMockup.webp',
+    image:'taskmanager.png',
 
     description:'TaskFlow is a modern task management application featuring complete CRUD functionality with Local Storage support. Users can create, edit, delete, search, sort, and filter tasks by status or priority, while task counters update automatically. The application combines search, filters, and sorting seamlessly to provide a clean and efficient task management experience.',
       techStack: [
@@ -26,7 +26,7 @@
     number: "02",
     title: "Movie Explorer",
     icon: "Film",
-    image:'movieMockup.webp',
+    image:'movie.png',
     description:'Movie Explorer is a React-based movie discovery application powered by the TMDB API. Users can browse trending, popular, and top-rated movies, search for any movie instantly, and view detailed information including the cast, release date, posters, and overview. Each movie also includes a trailer button that redirects users to YouTube for the official trailer.',
 
        techStack: [
@@ -46,7 +46,7 @@
     number: "03",
     title: "Mini E-Commerce",
     icon: "ShoppingCart",
-    image:'Cartproject.webp',
+    image:'Cart.png',
     description:'ShopSee is a mini e-commerce application where users can browse products, search, filter, and sort items with ease. It includes a functional shopping cart that supports quantity updates, item removal, and automatic total price calculation, while Local Storage keeps the cart data available even after a page refresh.',
        techStack: [
       "React",
@@ -64,7 +64,7 @@
     number: "04",
     title: "Portfolio Website",
     icon: "Briefcase",
-    image:'mockupportfolio.png',
+    image:'portfolio.png',
     description:"A modern portfolio website built with React to showcase my projects, skills, and learning journey. It features a clean component-based architecture, smooth animations, a custom preloader, and a responsive design focused on delivering a polished user experience.",
     techStack: [
       "React",
