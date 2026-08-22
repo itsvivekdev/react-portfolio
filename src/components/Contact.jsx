@@ -80,7 +80,7 @@ const Contact = () => {
 
 
               </div>
-              <a href="/resume.pdf" download="Vivek_Resume.pdf">
+              <a href="Vivek.pdf" download="Vivek.pdf">
   <button><Download strokeWidth={1.5} color="#a855f7" size={20} /> Download Resume</button>
 </a>
 
