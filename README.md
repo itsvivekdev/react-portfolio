@@ -9,7 +9,7 @@ My personal developer portfolio built with React and pure CSS. The goal of this 
 ## Preview
 
 <!-- Replace this with a screenshot of your hero section -->
-![Portfolio Preview](portfolio.png)
+![Portfolio Preview](public/portfolio.png)
 
 ---
 
