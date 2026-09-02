@@ -1,16 +1,34 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+My personal developer portfolio built with React and pure CSS. The goal of this project was to build a clean, fast portfolio from scratch without relying on heavy UI libraries or CSS frameworks.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [itsvivekdev.netlify.app](https://itsvivekdev.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<!-- Replace this with a screenshot of your hero section -->
+![Portfolio Preview](portfolio.png)
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## What’s Inside
+
+- **Component-based setup:** Broke the site down into reusable components to keep files small and maintainable.
+- **Pure CSS:** Handcrafted responsive layouts using Flexbox, CSS Grid, and custom variables instead of Tailwind or component libraries.
+- **Lenis Smooth Scroll:** Added smooth inertial scrolling via a dedicated custom hook without breaking native page behavior.
+- **Lucide Icons:** Kept iconography clean and lightweight using Lucide React.
+- **Responsive:** Tested across desktop, tablet, and mobile breakpoints.
+
+---
+
+## Tech Stack
+
+- **Framework:** React + Vite
+- **Styling:** Vanilla CSS
+- **Icons:** Lucide React
+- **Scroll:** Lenis (`@studio-freight/lenis`)
+- **Hosting:** Netlify
+
+---
