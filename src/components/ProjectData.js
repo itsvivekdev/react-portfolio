@@ -49,9 +49,10 @@
     image:'Cart.png',
     description:'ShopSee is a mini e-commerce application where users can browse products, search, filter, and sort items with ease. It includes a functional shopping cart that supports quantity updates, item removal, and automatic total price calculation, while Local Storage keeps the cart data available even after a page refresh.',
        techStack: [
-      "React",
-      "DummyJSON API",
+       "HTML5",
       "CSS",
+      "JavaScript",
+      "DummyJSON API",
       "Local Storage",
     ],
     livelink:'https://itsvivekdev.github.io/-Ecommerce-Cart-System/',

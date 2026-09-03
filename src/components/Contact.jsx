@@ -1,4 +1,4 @@
-import { Mail, MapPin, Download } from 'lucide-react';
+import { Mail, MapPin, FileText } from 'lucide-react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
@@ -80,8 +80,9 @@ const Contact = () => {
 
 
               </div>
-              <a href="Vivek.pdf" download="Vivek.pdf">
-  <button><Download strokeWidth={1.5} color="#a855f7" size={20} /> Download Resume</button>
+              <a href="Vivek_Kumar_.pdf" target="_blank"
+  rel="noopener noreferrer">
+  <button> <FileText size={20} strokeWidth={1.5} color="#a855f7" />View Resume</button>
 </a>
 
 
