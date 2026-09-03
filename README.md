@@ -17,7 +17,7 @@ My personal developer portfolio built with React and pure CSS. The goal of this 
 
 - **Component-based setup:** Broke the site down into reusable components to keep files small and maintainable.
 - **Pure CSS:** Handcrafted responsive layouts using Flexbox, CSS Grid, and custom variables instead of Tailwind or component libraries.
-- **Lenis Smooth Scroll:** Added smooth inertial scrolling via a dedicated custom hook without breaking native page behavior.
+- **Lenis Smooth Scroll:** Integrated Lenis for smooth momentum scrolling.
 - **Lucide Icons:** Kept iconography clean and lightweight using Lucide React.
 - **Responsive:** Tested across desktop, tablet, and mobile breakpoints.
 
